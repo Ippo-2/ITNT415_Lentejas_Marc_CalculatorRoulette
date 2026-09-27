@@ -1,7 +1,7 @@
 # Calculator Master
 
-**Student Name:** Your Name
-**Course and Section:** ITNT415 - Section X
+**Student Name:** Marc Jacob Lentejas
+**Course and Section:** ITNT415 - BIT42
 
 ## Project Description
 A menu-driven Python calculator with an integrated roulette game mode, built using
@@ -23,4 +23,4 @@ its own feature branch and merged into main via a Pull Request.
 - Game mode ('gg') with roulette animation, win/lose conditions
 
 ## Sample Execution Screenshot
-(insert screenshot here)
+<img width="368" height="285" alt="image" src="https://github.com/user-attachments/assets/ee73a3ec-87ce-48b6-b210-d20d99fb5f59" />
