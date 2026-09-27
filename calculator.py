@@ -10,6 +10,11 @@ def multiply(a, b):
     """Return the product of a and b."""
     return a * b
 
+def divide(a, b):
+    if b == 0:
+        return "Error: Division by zero is not allowed."
+    return a / b
+
 print("===============================")
 print(" RULES ")
 print("===============================")
@@ -78,8 +83,8 @@ while True:
         result = subtract(num1, num2)
     elif choice == '*':
         result = multiply(num1, num2)
-    else:
-        result = "Not implemented yet."
+    elif choice == '/':
+        result = divide(num1, num2)
 
     if isinstance(result, str):
         print(result)
