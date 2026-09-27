@@ -11,6 +11,7 @@ def multiply(a, b):
     return a * b
 
 def divide(a, b):
+    """Return a divided by b, or an error message if b is zero."""
     if b == 0:
         return "Error: Division by zero is not allowed."
     return a / b
