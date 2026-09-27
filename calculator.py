@@ -6,6 +6,10 @@ def subtract(a, b):
     """Return a minus b."""
     return a - b
 
+def multiply(a, b):
+    """Return the product of a and b."""
+    return a * b
+
 print("===============================")
 print(" RULES ")
 print("===============================")
@@ -72,6 +76,8 @@ while True:
         result = add(num1, num2)
     elif choice == '-':
         result = subtract(num1, num2)
+    elif choice == '*':
+        result = multiply(num1, num2)
     else:
         result = "Not implemented yet."
 
