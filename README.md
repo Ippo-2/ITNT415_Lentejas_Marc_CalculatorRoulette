@@ -1,4 +1,4 @@
-# Calculator Master
+# Calculator Roulette
 
 **Student Name:** Marc Jacob Lentejas
 **Course and Section:** ITNT415 - BIT42
@@ -9,11 +9,11 @@ Git branching and GitHub pull requests. Each arithmetic operation was developed 
 its own feature branch and merged into main via a Pull Request.
 
 ## Branch Structure
-- addition_LastName
-- subtraction_LastName
-- multiplication_LastName
-- division_LastName
-- gamemode_LastName
+- addition_Lentejas
+- subtraction_Lentejas
+- multiplication_Lentejas
+- division_Lentejas
+- gamemode_Lentejas
 
 ## Program Features
 - Menu-driven interface with continuous execution until 'q' is entered
