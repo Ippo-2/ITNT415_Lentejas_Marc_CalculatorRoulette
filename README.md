@@ -25,8 +25,9 @@ its own feature branch and merged into main via a Pull Request.
 ## Proof of:
 -Addition:
 <img width="330" height="94" alt="image" src="https://github.com/user-attachments/assets/4612ca5c-67b3-44f5-ac7c-f0a364f8b8a4" />
+
 -Subtraction
-![Uploading image.png…]()
+<img width="369" height="87" alt="image" src="https://github.com/user-attachments/assets/8475c9e3-6bed-4a9e-900d-e4a5144ee261" />
 
 -Multiplication
 <img width="362" height="89" alt="image" src="https://github.com/user-attachments/assets/0a32a87d-44a6-4039-90a5-384286106d3a" />
